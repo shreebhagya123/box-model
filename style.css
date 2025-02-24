@@ -1,0 +1,36 @@
+p {
+    color: blue;
+    font-size: 32px;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.box {
+    width:200px;
+    border: 1px solid blue;
+
+}
+
+.box1 {
+    padding : 40px 15px;
+    margin: 30px 50px;
+}
+
+.box2 {
+    padding: 20px 15px 40px;
+    margin: 40px 20px 10px;
+}
+
+.box3 {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 60px;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+
+.box4 {
+    border: 5px dotted red;
+    height: 200px;
+}
